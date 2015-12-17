@@ -32,7 +32,7 @@ clear:both;
 				<br>
 				<li>Tillbehör</li>
 				<br>
-				<li>Ipods</li>
+				
 			</ul>	
 		</nav>
 		
